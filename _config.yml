@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "SuZhou"
-title                    : ""
-title_separator          : "-"
+locale                   : "China SuZhou"
+title                    : 
+title_separator          : 
 name                     : &name "Cfrslyr"
-description              : &description ""
+description              : &description 
 url                      : https://cfrslyr.github.io
 baseurl                  : 
 repository               : 
@@ -22,13 +22,13 @@ repository               :
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Cfrslyr"
+  pronouns         : he 
+  bio              : 
+  location         : "China Suzhou"
+  employer         : 
   uri              : # URL
-  email            : "none@example.org" 
+  email            : 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
